@@ -1,4 +1,4 @@
-ackage com.example.smartbuy.model;
+package com.example.smartbuy.model;
 
 import java.math.BigDecimal;
 
